@@ -12,7 +12,7 @@ namespace Player
         private readonly List<RaycastHit2D> _castCollision = new();
         private Vector2 _movementInput;
         private Vector2 _lastPosition = Vector2.zero;
-
+        private bool _canMove = true;
 
         private Rigidbody2D _rb;
         private Animator _animator;
@@ -23,6 +23,7 @@ namespace Player
         private static readonly int Speed = Animator.StringToHash("speed");
         private static readonly int Horizontal = Animator.StringToHash("horizontal");
         private static readonly int Vertical = Animator.StringToHash("vertical");
+        private static readonly int IsAttacking = Animator.StringToHash("isAttacking");
 
         #endregion
 
@@ -34,6 +35,7 @@ namespace Player
 
         private void FixedUpdate()
         {
+            if (!_canMove) return;
             if (_movementInput != Vector2.zero)
             {
                 var success = TryMove(_movementInput);
@@ -79,6 +81,25 @@ namespace Player
         public void OnMove(InputValue movementValue)
         {
             _movementInput = movementValue.Get<Vector2>();
+        }
+
+        public void LockMovement()
+        {
+            _canMove = false;
+        }
+
+        public void UnlockMovement()
+        {
+            _canMove = true;
+        }
+
+        #endregion
+
+        #region Attack
+
+        public void OnFire(InputValue attackValue)
+        {
+            _animator.SetTrigger(IsAttacking);
         }
 
         #endregion
