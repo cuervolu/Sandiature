@@ -3,7 +3,11 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - DangerousTile
+  - LargeTile
+  - LevelChanger
+  - NPC
   layers:
   - Default
   - TransparentFX
@@ -38,6 +42,27 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Ground
+    uniqueID: 3822301389
+    locked: 0
+  - name: Door
+    uniqueID: 3533704691
+    locked: 0
+  - name: Foreground
+    uniqueID: 2956582139
+    locked: 0
+  - name: Decor Back
+    uniqueID: 1150304821
+    locked: 0
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: Decor Accesories Back
+    uniqueID: 2216337151
+    locked: 0
+  - name: Decor Accesories Front
+    uniqueID: 180110079
+    locked: 0
+  - name: Chairs
+    uniqueID: 1709186939
     locked: 0

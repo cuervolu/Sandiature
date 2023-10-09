@@ -34,7 +34,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -43,12 +43,12 @@ TextureImporter:
   nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 1
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 16
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -72,7 +72,7 @@ TextureImporter:
     maxTextureSize: 2048
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -121,7 +121,196 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: CharacterSheet_FroggoBack_0
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 378
+        width: 151
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50937c24508c234fb28b7a567b908c5
+      internalID: -821048250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterSheet_FroggoBack_1
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 378
+        width: 151
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1556bff1dcc79b41ac4cc6d103de458
+      internalID: 1182885290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterSheet_FroggoBack_2
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 378
+        width: 152
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c30e021e2fe4914d83f03ed55c4b086
+      internalID: 2014127814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterSheet_FroggoBack_3
+      rect:
+        serializedVersion: 2
+        x: 1157
+        y: 378
+        width: 152
+        height: 300
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b779901b9cdd2564b9bb2ab4c958401c
+      internalID: -1328477123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterSheet_FroggoBack_4
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 378
+        width: 164
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8050b9333a43e8f4faebaa6eec551c85
+      internalID: 831247406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterSheet_FroggoBack_5
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 27
+        width: 151
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 631afeaf5384a96478261386405c8805
+      internalID: 1071104108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterSheet_FroggoBack_6
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 29
+        width: 151
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfd0481334661764dbe1a6d52502c398
+      internalID: 1714344943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterSheet_FroggoBack_7
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 27
+        width: 151
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be812240cb5672c408143e8a9b1658b3
+      internalID: -577106574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CharacterSheet_FroggoBack_8
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 27
+        width: 156
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2811aeaf373cf1849b5e744eb51c1af6
+      internalID: 1733513639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
@@ -132,7 +321,16 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      CharacterSheet_FroggoBack_0: -821048250
+      CharacterSheet_FroggoBack_1: 1182885290
+      CharacterSheet_FroggoBack_2: 2014127814
+      CharacterSheet_FroggoBack_3: -1328477123
+      CharacterSheet_FroggoBack_4: 831247406
+      CharacterSheet_FroggoBack_5: 1071104108
+      CharacterSheet_FroggoBack_6: 1714344943
+      CharacterSheet_FroggoBack_7: -577106574
+      CharacterSheet_FroggoBack_8: 1733513639
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -1,9 +1,87 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="cbb4a70a-9e7a-4f5e-ae03-2c9bb6de9da8" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/Player/TopDown_Character_full pack.controller" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Assets/Animations/Player/TopDown_Character_full pack.controller.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.Sandiature/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Sandiature/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Player/Attack_Down.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Player/Attack_Down.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Player/Attack_Top.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Player/Attack_Top.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Animations/Player/Walk_Down.anim" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Animations/Player/Walk_Down.anim" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Frog/CharacterSheet_CharacterFront.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Frog/CharacterSheet_CharacterFront.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Frog/CharacterSheet_FroggoBack.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Frog/CharacterSheet_FroggoBack.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Player/Player.inputactions" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Player/Player.inputactions" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Player/Player.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Player/Player.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Characters/Player/td_char_fullpack_spritesheet.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Characters/Player/td_char_fullpack_spritesheet.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packages/AnimationSheet_Character.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packages/AnimationSheet_Character.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packages/IsaacTileset-2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packages/IsaacTileset-2.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packages/IsaacTileset.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packages/IsaacTileset.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packages/Tiny Wonder Farm Free/tilemaps/spring farm tilemap.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packages/Tiny Wonder Farm Free/tilemaps/spring farm tilemap.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/House_DoorsAndWindows.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/House_DoorsAndWindows.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/House_FloorWall.prefab" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/House_FloorWall.prefab.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_0.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_0.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_1.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_1.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_10.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_10.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_11.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_11.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_12.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_12.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_13.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_13.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_14.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_14.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_15.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_15.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_16.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_16.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_17.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_17.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_18.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_18.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_19.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_19.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_2.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_2.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_20.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_20.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_21.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_21.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_22.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_22.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_23.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_23.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_24.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_24.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_25.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_25.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_26.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_26.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_27.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_27.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_28.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_28.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_29.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_29.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_3.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_3.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_30.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_30.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_31.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_31.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_32.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_32.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_33.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_33.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_34.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_34.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_35.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_35.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_36.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_36.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_37.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_37.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_38.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_38.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_39.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_39.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_4.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_4.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_40.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_40.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_41.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_41.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_42.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_42.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_43.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_43.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_44.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_44.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_45.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_45.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_46.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_46.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_47.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_47.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_48.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_48.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_49.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_49.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_5.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_5.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_50.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_50.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_51.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_51.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_52.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_52.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_53.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_53.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_6.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_6.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_7.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_7.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_8.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_8.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_9.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/Tiles/TopDownHouse_FurnitureState1_9.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/TopDownHouse_FurnitureState1.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/TopDownHouse_FurnitureState1.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/TopDownHouse_FurnitureState2.png.meta" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Packages/TopDownHouse/TopDownHouse_FurnitureState2.png.meta" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level 1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Level 1.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scripts/Player/PlayerController.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scripts/Player/PlayerController.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/EditorSettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/QualitySettings.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectSettings/TagManager.asset" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,14 +91,39 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/97436df440ca462884c5332c1d8ebbe7941e00/48/ccc42529/SerializedObject.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9d7fc877145d4138982bf12cdd3484c6175000/05/5017b555/VisualTreeUpdater.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9d7fc877145d4138982bf12cdd3484c6175000/4a/c68ed192/UIEventRegistration.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9d7fc877145d4138982bf12cdd3484c6175000/ad/5a86ddc4/VisualTreeBindingsUpdater.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9d7fc877145d4138982bf12cdd3484c6175000/cc/b8b034af/UIElementsUtility.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/e97d84204f8d4aef92b538c5bab948f1172800/c6/c743be27/Vector2.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/e97d84204f8d4aef92b538c5bab948f1172800/cd/86047944/Vector3.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/f90f2d9cb28d4393afc1338e6af635e059000/db/450886b6/SerializedObjectBindingContext.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/SoundManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DialogSystem/DialogueActivator.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DialogSystem/DialogueObject.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DialogSystem/DialogueResponseEvents.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DialogSystem/DialogueUI.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DialogSystem/Editor/DialogueResponseEventsEditor.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DialogSystem/IInteractable.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DialogSystem/Response.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DialogSystem/ResponseEvent.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DialogSystem/ResponseHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/DialogSystem/TypewriterEffect.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/PlayerAttack.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 1
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 1
+}</component>
   <component name="ProjectId" id="2WUXOEODr14WV9M9ZRU3hj2vfBy" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -32,14 +135,13 @@
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "main",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
-    "settings.editor.selected.configurable": "preferences.environmentSetup",
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
     "vue.rearranger.settings.migration": "true"
   },
   "keyToStringList": {
@@ -89,6 +191,9 @@
     </configuration>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Cuervolu\AppData\Roaming\Subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="cbb4a70a-9e7a-4f5e-ae03-2c9bb6de9da8" name="Changes" comment="" />
@@ -96,8 +201,59 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1695318490144</updated>
-      <workItem from="1696788105916" duration="519000" />
+      <workItem from="1696788105916" duration="3962000" />
+      <workItem from="1696792291456" duration="21229000" />
+      <workItem from="1696864858667" duration="22878000" />
     </task>
+    <task id="LOCAL-00001" summary="feat(animations): Rename Animation Controller to AC_Player&#10;&#10;Changed the name of the Animation Controller from 'TopDown_Character_full pack' to 'AC_Player' for improved clarity and consistency.">
+      <option name="closed" value="true" />
+      <created>1696788734475</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1696788734475</updated>
+    </task>
+    <task id="LOCAL-00002" summary="fix(animation): Fix character not facing the same direction as last position&#10;&#10;- Resolved an issue where the character's animation was not correctly mirroring the last movement direction.&#10;&#10;refactor(collision): Make _castCollision readonly for now&#10;&#10;- Changed _castCollision to be a readonly list for improved safety and code clarity.&#10;&#10;style(formatting): Update code formatting&#10;&#10;- Improved the code formatting to enhance readability and maintainability.">
+      <option name="closed" value="true" />
+      <created>1696789555394</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1696789555394</updated>
+    </task>
+    <task id="LOCAL-00003" summary="feat(level): Create player prefab in Level 1.unity&#10;&#10;- Added a player prefab to the Level 1 scene for player character instantiation.">
+      <option name="closed" value="true" />
+      <created>1696789714292</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1696789714292</updated>
+    </task>
+    <task id="LOCAL-00004" summary="feat(animation): Create 'Attack_Left' animation for the player&#10;&#10;- Added a new animation named 'Attack_Left' for the player character's left-handed attack.">
+      <option name="closed" value="true" />
+      <created>1696791408687</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1696791408687</updated>
+    </task>
+    <task id="LOCAL-00005" summary="feat(player): Add movement control, animation events, and attack animation&#10;&#10;- Created a private boolean variable '_canMove' and added a condition to the FixedUpdate method to allow pausing movement when '_canMove' is set to false.&#10;- Implemented 'LockMovement' and 'UnlockMovement' methods for use in Unity animation events.&#10;- Added functional attack animation using the 'OnFire' method and triggering the 'IsAttacking' animation parameter.">
+      <option name="closed" value="true" />
+      <created>1696791540584</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1696791540584</updated>
+    </task>
+    <task id="LOCAL-00006" summary="feat(license): Add MIT license to the project&#10;&#10;- Added the MIT license to the project, granting users the permission to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software, subject to the conditions outlined in the license.">
+      <option name="closed" value="true" />
+      <created>1696791877794</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1696791877794</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -119,5 +275,17 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+    <MESSAGE value="feat(animations): Rename Animation Controller to AC_Player&#10;&#10;Changed the name of the Animation Controller from 'TopDown_Character_full pack' to 'AC_Player' for improved clarity and consistency." />
+    <MESSAGE value="fix(animation): Fix character not facing the same direction as last position&#10;&#10;- Resolved an issue where the character's animation was not correctly mirroring the last movement direction.&#10;&#10;refactor(collision): Make _castCollision readonly for now&#10;&#10;- Changed _castCollision to be a readonly list for improved safety and code clarity.&#10;&#10;style(formatting): Update code formatting&#10;&#10;- Improved the code formatting to enhance readability and maintainability." />
+    <MESSAGE value="feat(level): Create player prefab in Level 1.unity&#10;&#10;- Added a player prefab to the Level 1 scene for player character instantiation." />
+    <MESSAGE value="feat(animation): Create 'Attack_Left' animation for the player&#10;&#10;- Added a new animation named 'Attack_Left' for the player character's left-handed attack." />
+    <MESSAGE value="feat(player): Add movement control, animation events, and attack animation&#10;&#10;- Created a private boolean variable '_canMove' and added a condition to the FixedUpdate method to allow pausing movement when '_canMove' is set to false.&#10;- Implemented 'LockMovement' and 'UnlockMovement' methods for use in Unity animation events.&#10;- Added functional attack animation using the 'OnFire' method and triggering the 'IsAttacking' animation parameter." />
+    <MESSAGE value="feat(license): Add MIT license to the project&#10;&#10;- Added the MIT license to the project, granting users the permission to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software, subject to the conditions outlined in the license." />
+    <option name="LAST_COMMIT_MESSAGE" value="feat(license): Add MIT license to the project&#10;&#10;- Added the MIT license to the project, granting users the permission to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the software, subject to the conditions outlined in the license." />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

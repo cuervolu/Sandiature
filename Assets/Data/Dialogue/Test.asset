@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7e00e424b8b276749877355a86278253, type: 3}
+  m_Name: Test
+  m_EditorClassIdentifier: 
+  dialogue:
+  - Hello!
+  - This is a Test...
+  - Do You Like it? :)
+  responses:
+  - responseText: Yes
+    dialogueObject: {fileID: 11400000, guid: 19522b6367a913e46b3580ff026cf0b3, type: 2}
+    characterSprite: {fileID: -276894102, guid: 094938e0cd2bfa84c9e68421fe1c366c, type: 3}
+    audioClip: {fileID: 8300000, guid: 784237ec9525bf24eaec991c1321a6d8, type: 3}
+  - responseText: No
+    dialogueObject: {fileID: 11400000, guid: 263b6ba0a7d48db48ad39607418b2473, type: 2}
+    characterSprite: {fileID: 2143341535, guid: 094938e0cd2bfa84c9e68421fe1c366c, type: 3}
+    audioClip: {fileID: 8300000, guid: 784237ec9525bf24eaec991c1321a6d8, type: 3}
+  sprite: {fileID: -1568375734, guid: 094938e0cd2bfa84c9e68421fe1c366c, type: 3}
+  textColor: {r: 1, g: 1, b: 1, a: 1}
+  fontAsset: {fileID: 11400000, guid: 4e78a90d12f528144829647eeb20dd85, type: 2}
+  audioClip: {fileID: 8300000, guid: 784237ec9525bf24eaec991c1321a6d8, type: 3}
