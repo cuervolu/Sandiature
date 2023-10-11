@@ -54,9 +54,12 @@ namespace Player
             if (SkipDialogue)
                 _typewriterEffect.Stop();
 
-            if (!dialogueUI.IsOpen) return;
-            _animator.SetFloat(Speed, 0);
-            LockMovement();
+            if (dialogueUI.IsOpen)
+            {
+                _animator.SetFloat(Speed, 0);
+                LockMovement();
+            }else
+                UnlockMovement();
         }
 
         private void FixedUpdate()
