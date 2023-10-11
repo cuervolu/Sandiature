@@ -4,26 +4,54 @@
     <img src="https://pbs.twimg.com/profile_images/630226561719873536/D8JyXY5f_400x400.png" alt="PeCausa" width="128" height="128" style="margin: 10px;">
 </div>
 
+<hr/>
+
+<div style="display: flex; justify-content: center; align-items: center;">
+  <a href="https://www.jetbrains.com/es-es/rider/">
+    <img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=Rider&logoColor=white" alt="Rider">
+  </a>
+  <a href="https://unity.com">
+    <img src="https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=for-the-badge&logo=unity" alt="Made with Unity">
+  </a>
+  <img src="https://img.shields.io/badge/State-Under_Development-FF934F?style=for-the-badge&label=State&labelColor=%2391F5AD&color=%23FF934F" alt="State Badge">
+</div>
+
 # Sandiature - Descubre el Sabor de la Aventura
-¡Bienvenido a Sandiature, un emocionante juego RPG 2D que te sumerge en el intrigante mundo de Hamir, un simple humano con un apetito insaciable por la aventura! Prepárate para explorar un universo lleno de desafíos, personajes peculiares y decisiones que darán forma a tu destino.
+
+¡Bienvenido a Sandiature, un emocionante juego RPG 2D que te sumerge en el intrigante mundo de Hamir, un simple humano
+con un apetito insaciable por la aventura! Prepárate para explorar un universo lleno de desafíos, personajes peculiares
+y decisiones que darán forma a tu destino.
 
 ## Historia Épica
 
-En el corazón de Sandiature, te encontrarás con Hamir, un catador de comida en busca de la tranquilidad en su vida. Pero su día a día se ve constantemente interrumpido por dos antagonistas: Pugllao, un implacable profesor de la Universidad de Hamir, que lo persigue para entregarle tareas interminables, y el diablo, una malvada y manipuladora mujer que parece estar siempre al acecho.
+En el corazón de Sandiature, te encontrarás con Hamir, un catador de comida en busca de la tranquilidad en su vida. Pero
+su día a día se ve constantemente interrumpido por dos antagonistas: Pugllao, un implacable profesor de la Universidad
+de Hamir, que lo persigue para entregarle tareas interminables, y el diablo, una malvada y manipuladora mujer que parece
+estar siempre al acecho.
 
-Afortunadamente, Hamir no está solo. Tendrá la ayuda de tres amigos, siendo el principal Cris, un entrañable slime con una sorprendente tendencia a la mala suerte. Juntos, se embarcarán en una emocionante aventura para buscar la paz que tanto anhela.
+Afortunadamente, Hamir no está solo. Tendrá la ayuda de tres amigos, siendo el principal Cris, un entrañable slime con
+una sorprendente tendencia a la mala suerte. Juntos, se embarcarán en una emocionante aventura para buscar la paz que
+tanto anhela.
 
 ## Experiencia de Juego Única
 
-Sandiature esta inspirado en las mecánicas de juegos de renombre como Undertale, Pokemon e incluso juegos nada que ver plataformeros como Hollow Knight y Celeste. Sin embargo, la verdadera magia radica en su sistema de batalla, inspirado en Pokémon y Undertale, que te permite interactuar de manera única con los enemigos y tomar decisiones que afectarán el curso de la historia.
+Sandiature esta inspirado en las mecánicas de juegos de renombre como Undertale, Pokemon e incluso juegos nada que ver
+plataformeros como Hollow Knight y Celeste. Sin embargo, la verdadera magia radica en su sistema de batalla, inspirado
+en Pokémon y Undertale, que te permite interactuar de manera única con los enemigos y tomar decisiones que afectarán el
+curso de la historia.
 
-El sistema de diálogo, al estilo de Undertale, te permitirá forjar relaciones con los personajes del juego, lo que influirá en cómo se desarrolla la trama y los desafíos que enfrentas. Cada elección cuenta, ¡así que elige sabiamente!
+El sistema de diálogo, al estilo de Undertale, te permitirá forjar relaciones con los personajes del juego, lo que
+influirá en cómo se desarrolla la trama y los desafíos que enfrentas. Cada elección cuenta, ¡así que elige sabiamente!
 
 ## Sumérgete en un Mundo Rico
 
-La historia de Sandiature está diseñada para cautivarte, al igual que Undertale. Explorarás un mundo lleno de secretos, descubrirás personajes inolvidables y tomarás decisiones que desafiarán tus valores y creencias. A medida que Hamir busca su paz interior, tú también te embarcarás en un viaje de autodescubrimiento.
+La historia de Sandiature está diseñada para cautivarte, al igual que Undertale. Explorarás un mundo lleno de secretos,
+descubrirás personajes inolvidables y tomarás decisiones que desafiarán tus valores y creencias. A medida que Hamir
+busca su paz interior, tú también te embarcarás en un viaje de autodescubrimiento.
 
-¿Qué secretos oculta la misteriosa diablo? ¿Cómo lidiará Hamir con las demandas de Pugllao? La respuesta está en tus manos mientras te aventuras en Sandiature.
+¿Qué secretos oculta la misteriosa diablo? ¿Cómo lidiará Hamir con las demandas de Pugllao? La respuesta está en tus
+manos mientras te aventuras en Sandiature.
+
 ## Agradecimientos
 
 - [Chris's Tutorials](https://www.youtube.com/@ChrisTutorialsYT)
