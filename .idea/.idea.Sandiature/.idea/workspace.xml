@@ -6,6 +6,10 @@
   <component name="ChangeListManager">
     <list default="true" id="cbb4a70a-9e7a-4f5e-ae03-2c9bb6de9da8" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.Sandiature/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.Sandiature/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Fonts/DTM-Sans SDF.asset" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Fonts/DTM-Sans SDF.asset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assets/Scenes/Level 1.unity" beforeDir="false" afterPath="$PROJECT_DIR$/Assets/Scenes/Level 1.unity" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Packages/packages-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/Packages/packages-lock.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +28,6 @@
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/e97d84204f8d4aef92b538c5bab948f1172800/c6/c743be27/Vector2.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/e97d84204f8d4aef92b538c5bab948f1172800/cd/86047944/Vector3.cs" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/f90f2d9cb28d4393afc1338e6af635e059000/db/450886b6/SerializedObjectBindingContext.cs" root0="SKIP_HIGHLIGHTING" />
-    <setting file="mock://D:/Programacion/Unity/Sandiature/Assets/Packages/AnimationSheet_Character.png.meta" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Core/SoundManager.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DialogSystem/DialogueActivator.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DialogSystem/DialogueObject.cs" root0="FORCE_HIGHLIGHTING" />
@@ -37,7 +40,9 @@
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DialogSystem/ResponseHandler.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/DialogSystem/TypewriterEffect.cs" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Assets/Scripts/Player/PlayerAttack.cs" root0="FORCE_HIGHLIGHTING" />
-    <setting file="mock://D:/Programacion/Unity/Sandiature/Assets/Scripts/Player/PlayerController.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@3.0.6/Scripts/Runtime/TMP_FontAsset.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.textmeshpro@3.0.6/Scripts/Runtime/TMP_Text.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Library/PackageCache/com.unity.timeline@1.7.6/Editor/Signals/SignalReceiverInspector.cs" root0="SKIP_HIGHLIGHTING" />
   </component>
   <component name="KubernetesApiProvider">{
   &quot;isMigrated&quot;: true
@@ -131,6 +136,8 @@
       <workItem from="1696792291456" duration="21229000" />
       <workItem from="1696864858667" duration="24326000" />
       <workItem from="1696981729036" duration="125000" />
+      <workItem from="1696981881755" duration="3207000" />
+      <workItem from="1697060679055" duration="8548000" />
     </task>
     <task id="LOCAL-00001" summary="feat(animations): Rename Animation Controller to AC_Player&#10;&#10;Changed the name of the Animation Controller from 'TopDown_Character_full pack' to 'AC_Player' for improved clarity and consistency.">
       <option name="closed" value="true" />
@@ -212,7 +219,23 @@
       <option name="project" value="LOCAL" />
       <updated>1696890916300</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="fix(player): Fix player movement bug that doesn't allow to move after a dialog&#10;&#10;Fixed a bug that didn't allow the player to move after opening a dialogue box.">
+      <option name="closed" value="true" />
+      <created>1696986712704</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1696986712704</updated>
+    </task>
+    <task id="LOCAL-00012" summary="docs(README): Add shields.io badges to the README file&#10;&#10;This commits add the following badges to the header of the file:&#10;&#10;- Rider Badge&#10;- Made With Unity Badge&#10;- Under Development state badge">
+      <option name="closed" value="true" />
+      <created>1696988944391</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1696988944391</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -244,7 +267,9 @@
     <MESSAGE value="feat(dialogue): Add a flexible dialogue system based on Undertale&#10;&#10;Add a flexible and customizable dialogue system that handles dialogs and their responses when you get close to an NPC." />
     <MESSAGE value="feat(player): Add player attacks mechanics&#10;&#10;Add player attacks mechanics with the new Unity input system." />
     <MESSAGE value="feat(core): Add a Sound Manager system" />
-    <option name="LAST_COMMIT_MESSAGE" value="feat(core): Add a Sound Manager system" />
+    <MESSAGE value="fix(player): Fix player movement bug that doesn't allow to move after a dialog&#10;&#10;Fixed a bug that didn't allow the player to move after opening a dialogue box." />
+    <MESSAGE value="docs(README): Add shields.io badges to the README file&#10;&#10;This commits add the following badges to the header of the file:&#10;&#10;- Rider Badge&#10;- Made With Unity Badge&#10;- Under Development state badge" />
+    <option name="LAST_COMMIT_MESSAGE" value="docs(README): Add shields.io badges to the README file&#10;&#10;This commits add the following badges to the header of the file:&#10;&#10;- Rider Badge&#10;- Made With Unity Badge&#10;- Under Development state badge" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="true" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
