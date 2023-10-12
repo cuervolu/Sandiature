@@ -14,9 +14,9 @@ namespace Cutscenes
         [SerializeField] private Color textColor = Color.white;
         [SerializeField] private AudioClip audioClip;
         [SerializeField] private float delayBetweenLines = 2.0f;
-        
+
         private Coroutine _typingCoroutine;
-        
+
         private void Start()
         {
             Run();
@@ -33,7 +33,7 @@ namespace Cutscenes
 
                 // Actualiza el texto del diálogo.
                 textLabel.text = dialogue;
-                
+
                 // Si es la última línea de diálogo, detén el ciclo.
                 if (i == dialogueObject.Dialogue.Length - 1) break;
 
