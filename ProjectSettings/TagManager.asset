@@ -42,6 +42,9 @@ TagManager:
   - 
   - 
   m_SortingLayers:
+  - name: Couch
+    uniqueID: 2961246699
+    locked: 0
   - name: Ground
     uniqueID: 3822301389
     locked: 0
